@@ -32,17 +32,17 @@ The scheduled task timetable can be access in the following [link](https://githu
 
 # Issues 
 
-## Web scraping
+## 1. Web scraping
 
 It has been done a web scraping precess to the Udemy platform in order to get missing information such as `rating` and `language`.<br>
 For this task it has been created the following [issue](https://github.com/fedepacher/MOOCProject/issues/1) where you can find the task description to solve.<br>
 
 
-## Exploratory Data Analysis (EDA)
+## 2. Exploratory Data Analysis (EDA)
 
 For this task it has been created the following [issue](https://github.com/fedepacher/MOOCProject/issues/2) where you can find the task description to solve.
 
-## Dashboard 
+## 3. Dashboard 
 
 For this task it has been created the following [issue](https://github.com/fedepacher/MOOCProject/issues/3) where you can find the task description to solve.<br>
 The following image shows an interactive dashboard:
@@ -59,9 +59,14 @@ Contains the KPIs values and different graphs that shows:
 * Average of rating per Subject and level
 
 
-## SQL Table 
+## 4. SQL Table 
  
 For this task it has been created the following [issue](https://github.com/fedepacher/MOOCProject/issues/4) where you can find the task description to solve.<br>
 It has created the following star model to work in the Power Bi environment: 
 
 <p align=center><img src=_src/assets/matrix.png><p>
+
+
+# License
+
+This project is licensed under the GPL-2.0 license.
